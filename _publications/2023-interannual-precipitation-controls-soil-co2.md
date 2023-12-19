@@ -1,7 +1,7 @@
 ---
 title: "Interannual precipitation controls on soil CO2 fluxes in high elevation conifer and aspen forests"
 collection: publications
-permalink: /publication/2023-00-00-interannual-precipitation-controls-soil-co2
+permalink: /publication/2023-interannual-precipitation-controls-soil-co2
 excerpt: 'This paper discusses the effect of interannual precipitation variations on soil CO2 fluxes in high elevation conifer and aspen forests.'
 date: 2023-00-00
 venue: 'Environmental Research Letters'
