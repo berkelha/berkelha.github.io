@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Max Berkelhammer"
 title_separator          : "-"
-name                     : &name "Max Berkelhammer"
+name                     : &name "Max Berkelhammer's Homepage"
 description              : &description "I am a professor in the Department of Earth and Environmental Sciences at University of Illinois at Chicago. My research and teaching focus on the interactions between the land surface and atmosphere with an emphasis on the global carbon and water cycles. I am recruiting multiple post docs and RAs for a DOE-funded project.  Please inquire."
 url                      : https://kaludii.github.io/mberk.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
