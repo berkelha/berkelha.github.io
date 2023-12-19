@@ -1,7 +1,7 @@
 ---
 title: "Bark beetle impacts on forest evapotranspiration and its partitioning"
 collection: publications
-permalink: /publication/2023-00-00-bark-beetle-impacts-forest-evapotranspiration
+permalink: /publication/2023-bark-beetle-impacts-forest-evapotranspiration
 excerpt: 'This study explores how bark beetles affect forest evapotranspiration and its partitioning.'
 date: 2023-00-00
 venue: 'Science of the Total Environment'
