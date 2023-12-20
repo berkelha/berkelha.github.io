@@ -44,15 +44,6 @@ Funding and Awards
 * DOI Illinois Water Resources Center (2016-2017):  Under the Cover of Darkness: Nighttime Water Use by Native, Biofuel and Agricultural Crops of Illinois.  Amount: $36,764. (Lead PI)
 * UIC Silver Circle Award for Teaching Excellence (2017-2018)
 
-Teaching
-======
-* Soils and the Environment (EaES 473)
-* Climate and Land Interactions (EaES 577)
-* Stable Isotope Biogeochemistry (EaES 513)
-* Climate, Contamination and Chicago (EaES 105)
-* The Northwest Passage (LAS 294)
-* Earth Systems (EaES 285)
-
 Publications
 ======
 * (63) M. Carbone,  A. Richardson, b. barr, **M. Berkelhammer**, C. Boot, A. Simonpietri, C. Still. (2023) Interannual precipitation controls on soil CO2 fluxes in high elevation conifer and aspen forests. Environmental Research Letters. doi: 10.1088/1748-9326/ad07b5
