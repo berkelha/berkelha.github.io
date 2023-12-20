@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "# CV"
+title:
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<h1 style="font-size: 30px; font-weight: bold; text-align: center; margin-bottom: 0.5em;">CV</h1>
+<h1 style="font-size: 40px; font-weight: bold; text-align: center; margin-bottom: 0.5em;">[CV/Grants/Publications]</h1>
 
 Appointments
 ======
