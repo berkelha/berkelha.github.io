@@ -6,9 +6,7 @@ excerpt:
 date: 2023-04-06
 venue: 'Science of the Total Environment'
 paperurl: 'http://link-to-paper-if-available'
-citation: 'Knowles et al. (2023). "Bark beetle impacts on forest evapotranspiration and its partitioning." <i>Science of the Total Environment</i>. doi: 10.1016/j.scitotenv.2023.163260.'
+citation: 'Knowles et al., (2023). "Bark beetle impacts on forest evapotranspiration and its partitioning." <i>Science of the Total Environment</i>. doi: 10.1016/j.scitotenv.2023.163260.'
 ---
-
-[Download paper here](http://link-to-paper-if-available)
 
 Knowles et al. (2023). "Bark beetle impacts on forest evapotranspiration and its partitioning." <i>Science of the Total Environment</i>. doi: 10.1016/j.scitotenv.2023.163260.
