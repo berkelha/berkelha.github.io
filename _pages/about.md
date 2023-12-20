@@ -11,9 +11,9 @@ redirect_from:
 ## Welcome
 I am a professor in the Department of Earth and Environmental Sciences at University of Illinois at Chicago. My research and teaching focus on the interactions between the land surface and atmosphere with an emphasis on the global carbon and water cycles. I am recruiting multiple post docs and RAs for a DOE-funded project. Please inquire.
 
-![Image Description](https://berkelha.people.uic.edu/wp-content/uploads/CAMP.CIRC_.SM_.RED_-300x300.png)
+![UIC Logo](https://berkelha.people.uic.edu/wp-content/uploads/CAMP.CIRC_.SM_.RED_-300x300.png)
 
-![Link to Image](http://berkelha.people.uic.edu/wp-content/uploads/xid-53617990_2.jpg) The FermiLab AmeriFlux site with EaES 473 Class, agriculture vs. tall grass…
+![FermiLab AmeriFlux Site](http://berkelha.people.uic.edu/wp-content/uploads/xid-53617990_2.jpg) The FermiLab AmeriFlux site with EaES 473 Class, agriculture vs. tall grass…
 
 ![Indiana Dunes National Seashore](http://berkelha.people.uic.edu/wp-content/uploads/IMG_0185.jpg)Indiana Dunes National Seashore, the beginning of succession.
 
