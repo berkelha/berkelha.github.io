@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title:
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -11,11 +11,12 @@ redirect_from:
 ## Welcome
 I am a professor in the Department of Earth and Environmental Sciences at University of Illinois at Chicago. My research and teaching focus on the interactions between the land surface and atmosphere with an emphasis on the global carbon and water cycles. I am recruiting multiple post docs and RAs for a DOE-funded project. Please inquire.
 
-![Image Description](http://berkelha.people.uic.edu/wp-content/uploads/CAMP.CIRC.SM.RED_-300x300.png)
+![Image Description](https://berkelha.people.uic.edu/wp-content/uploads/CAMP.CIRC_.SM_.RED_-300x300.png)
 
-### Additional Information
-- [Link to Image](http://berkelha.people.uic.edu/wp-content/uploads/xid-53617990_2.jpg) - The FermiLab AmeriFlux site with EaES 473 Class, agriculture vs. tall grass...
-- ![Indiana Dunes National Seashore](http://berkelha.people.uic.edu/wp-content/uploads/IMG_0185.jpg) - Indiana Dunes National Seashore, the beginning of succession.
-- ![Above the canopy in Illinois](http://berkelha.people.uic.edu/wp-content/uploads/IMG_3044.jpg) - It's not hard to get above the canopy in Illinois.
-- ![Soil temperature measurement](http://berkelha.people.uic.edu/wp-content/uploads/IMG_0200-e1541525895314.jpg) - How many students does it take to measure the soil temperature?
-- ![Field with an auger](http://berkelha.people.uic.edu/wp-content/uploads/IMG_0191.jpg) - A quiet moment in a field with an auger.
+![Link to Image](http://berkelha.people.uic.edu/wp-content/uploads/xid-53617990_2.jpg) The FermiLab AmeriFlux site with EaES 473 Class, agriculture vs. tall grass…
+![Indiana Dunes National Seashore](http://berkelha.people.uic.edu/wp-content/uploads/IMG_0185.jpg)Indiana Dunes National Seashore, the beginning of succession.
+
+![Above the canopy in Illinois](http://berkelha.people.uic.edu/wp-content/uploads/IMG_3044.jpg) It’s not hard to get above the canopy in Illinois.
+![Soil temperature measurement](http://berkelha.people.uic.edu/wp-content/uploads/IMG_0200-e1541525895314.jpg) How many students does it take to measure the soil temperature?
+
+![Field with an auger](http://berkelha.people.uic.edu/wp-content/uploads/IMG_0191.jpg) A quiet moment in a field with an auger.
