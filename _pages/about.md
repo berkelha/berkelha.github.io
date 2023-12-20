@@ -10,6 +10,11 @@ redirect_from:
 
 <h1 style="font-size: 40px; font-weight: bold; text-align: center; margin-bottom: 0.5em;">Welcome!</h1>
 
+<div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 2em;">
+  <h1 style="font-size: 40px; font-weight: bold; margin-bottom: 0.5em;">Welcome!</h1>
+  <img src="https://berkelha.people.uic.edu/wp-content/uploads/CAMP.CIRC_.SM_.RED_-300x300.png" alt="UIC Logo" style="width: 100px; height: auto;">
+</div>
+
 I am a professor in the Department of Earth and Environmental Sciences at University of Illinois at Chicago. My research and teaching focus on the interactions between the land surface and atmosphere with an emphasis on the global carbon and water cycles. I am recruiting multiple post docs and RAs for a DOE-funded project. Please inquire.
 
   <div style="flex-grow: 0; flex-basis: auto; padding-left: 20px;">
