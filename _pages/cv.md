@@ -7,7 +7,9 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+# {% include base_path %}
+
+<h1 style="font-size: 30px; font-weight: bold; text-align: center; margin-bottom: 0.5em;">CV</h1>
 
 Appointments
 ======
