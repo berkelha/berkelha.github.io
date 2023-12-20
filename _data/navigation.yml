@@ -1,25 +1,22 @@
 # main links links
 main:
-  - title: "Appointments"
-    url: /appointments/
+  - title: "Publications"
+    url: /publications/
 
-  - title: "Education"
-    url: /education/ 
-
-  - title: "Grants"
-    url: /grants/    
+  - title: "Talks"
+    url: /talks/    
 
   - title: "Teaching"
-    url: /teaching/      
-
-  - title: "Publications"
-    url: /publications/       
-
-  - title: "Lab"
-    url: /lab/    
-        
-  - title: "Group"
-    url: /group/
+    url: /teaching/    
     
-  - title: "Contact"
-    url: /contact/
+  - title: "Portfolio"
+    url: /portfolio/
+        
+  - title: "Blog Posts"
+    url: /year-archive/
+    
+  - title: "CV"
+    url: /cv/
+    
+  - title: "Guide"
+    url: /markdown/
