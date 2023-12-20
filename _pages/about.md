@@ -14,6 +14,7 @@ I am a professor in the Department of Earth and Environmental Sciences at Univer
 ![Image Description](https://berkelha.people.uic.edu/wp-content/uploads/CAMP.CIRC_.SM_.RED_-300x300.png)
 
 ![Link to Image](http://berkelha.people.uic.edu/wp-content/uploads/xid-53617990_2.jpg) The FermiLab AmeriFlux site with EaES 473 Class, agriculture vs. tall grass…
+
 ![Indiana Dunes National Seashore](http://berkelha.people.uic.edu/wp-content/uploads/IMG_0185.jpg)Indiana Dunes National Seashore, the beginning of succession.
 
 ![Above the canopy in Illinois](http://berkelha.people.uic.edu/wp-content/uploads/IMG_3044.jpg) It’s not hard to get above the canopy in Illinois.
