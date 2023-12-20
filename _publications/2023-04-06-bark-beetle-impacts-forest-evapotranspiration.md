@@ -1,5 +1,5 @@
 ---
-title: "Bark beetle impacts on forest evapotranspiration and its partitioning"
+title: "(62) Bark beetle impacts on forest evapotranspiration and its partitioning"
 collection: publications
 permalink: /publication/2023-04-06-bark-beetle-impacts-forest-evapotranspiration
 excerpt:
