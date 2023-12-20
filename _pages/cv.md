@@ -119,19 +119,3 @@ Publications
 * (3) **M. Berkelhammer**, A Sinha, M. Mudelsee, H. Cheng, R. Edwards and K. Cannariato (2010) Persistent multidecadal power of the Indian Summer Monsoon. Earth and Planetary Science Letters. DOI: 10.1016/j.epsl.2009.12.017
 * (2) **M. Berkelhammer** and L. Stott (2009) Modeled and observed intra-ring delta18O cycles within late Holocene Bristlecone Pine tree samples. Chemical Geology. DOI: 10.1016/j.chemgeo.2009.02.010
 * (1) **M. Berkelhammer** and L. Stott (2008) Recent and dramatic changes in Pacific storm trajectories recorded in delta18O from Bristlecone Pine tree ring cellulose. Geochemistry, Geophysics, Geosystems. DOI: 10.1029/2007gc001803
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
