@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+# Welcome!
+
 I am a professor in the Department of Earth and Environmental Sciences at University of Illinois at Chicago. My research and teaching focus on the interactions between the land surface and atmosphere with an emphasis on the global carbon and water cycles. I am recruiting multiple post docs and RAs for a DOE-funded project. Please inquire.
 
   <div style="flex-grow: 0; flex-basis: auto; padding-left: 20px;">
