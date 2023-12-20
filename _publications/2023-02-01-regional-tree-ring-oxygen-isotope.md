@@ -1,5 +1,5 @@
 ---
-title: "Regional tree-ring oxygen isotope deduced summer monsoon drought variability for Kumaun-Gharwal Himalaya"
+title: "(61) Regional tree-ring oxygen isotope deduced summer monsoon drought variability for Kumaun-Gharwal Himalaya"
 collection: publications
 permalink: /publication/2023-02-01-regional-tree-ring-oxygen-isotope
 excerpt:
