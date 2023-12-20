@@ -9,32 +9,37 @@ redirect_from:
 
 {% include base_path %}
 
+Appointments
+======
+* Visiting/Sabbatical Researcher, Woodwell Climate Research Center, 2023
+* Associate Professor, University of Illinois Chicago, 2020-present
+* Assistant Professor, University of Illinois Chicago, 2014-2020
+* Visiting Professor, Colorado College, 2013
+* Postdoctoral Research Associate, University of Colorado/CIRES, 2010-2013
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* BA in Geology, Pomona College, 2002
+* PhD in Earth Sciences, University of Southern California, 2010
+* Post Doc in Atmospheric and Oceanic Sciences, University of Colorado, 2013
 
-Work experience
+Funding and Awards
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+### Active
+* NSF-RISE: Building Equitable University-Community Geoscience Research Collaborations on Chicago’s South Side. (2024-2026) Amount: $299,000 (Lead PI)
+* NSF-DEB: Collaborative Research: MRA: Dew impacts on ecosystem carbon, energy and water fluxes at continental scale – a synthesis across NEON sites. (2023-2027) Amount: $347,157 (PI)
+* [Additional grants and amounts...]
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+### Completed
+* DOE-Subsurface Biogeochemical Research: Space and Time Dynamics of Transpiration in the East River Watershed: Biotic and Abiotic Controls. (2018-2020) Amount: $199,691 (Lead PI)
+* [Additional completed grants and amounts...]
+
+Teaching
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Soils and the Environment (EaES 473)
+* Climate and Land Interactions (EaES 577)
+* Stable Isotope Biogeochemistry (EaES 513)
+* [More courses...]
 
 Publications
 ======
