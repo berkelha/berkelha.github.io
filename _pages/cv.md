@@ -43,9 +43,11 @@ Teaching
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* **M. Carbone, A. Richardson, b. barr, M. Berkelhammer, C. Boot, A. Simonpietri, C. Still.** (2023). "Interannual precipitation controls on soil CO2 fluxes in high elevation conifer and aspen forests." _Environmental Research Letters_. [doi: 10.1088/1748-9326/ad07b5](https://doi.org/10.1088/1748-9326/ad07b5)
+* **Knowles et al.** (2023). "Bark beetle impacts on forest evapotranspiration and its partitioning." _Science of the Total Environment_. [doi: 10.1016/j.scitotenv.2023.163260](https://doi.org/10.1016/j.scitotenv.2023.163260)
+* **S. Shah, M. Berkelhammer et al.** (2023). "Regional tree-ring oxygen isotope deduced summer monsoon drought variability for Kumaun-Gharwal Himalaya." _Quaternary Science Reviews_. [doi: 10.1016/j.quascirev.2022.107927](https://doi.org/10.1016/j.quascirev.2022.107927)
+* **A. Bellagamba, M. Berkelhammer, R. Weber, I Patete.** (2023). "Suspended in sound: New constraints on isotopic fractionation of falling hydrometeors using acoustically levitated water droplets." _Hydrological Processes_.
+* **D’Angelo et al.** (2022). "Water masses distribution in the Canadian Arctic Archipelago: Implementation of the Optimal MultiParameter analysis (OMP)." _Earth Syst. Sci. Data Discuss_. [doi: 10.5194/essd-2022-306](https://doi.org/10.5194/essd-2022-306)
   
 Talks
 ======
