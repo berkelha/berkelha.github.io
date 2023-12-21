@@ -13,13 +13,11 @@ redirect_from:
 
 ## Current Group Members
 
-### Benjamin Ahlswede
-**Postdoctoral Research Fellow**  
-Dynamic roots and turnover time in an Earth System Model
+**Benjamin Ahlswede:** Postdoctoral Research Fellow
+_Dynamic roots and turnover time in an Earth System Model_
 
-### Cynthia Garcia-Eidell
-**PhD Student, ACM SIGHPC/Intel Fellow**  
-Remote sensing of high latitude sea surface salinity
+**Cynthia Garcia-Eidell:** PhD Student,  ACM SIGHPC/Intel Fellow
+_Remote sensing of high latitude sea surface salinity_
 
 ![Cynthia Garcia-Eidell](http://berkelha.people.uic.edu/wp-content/uploads/177528_10150910599964678_1549231334_o.jpg)
 
