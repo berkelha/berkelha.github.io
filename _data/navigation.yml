@@ -3,6 +3,12 @@ main:
   - title: "CV"
     url: /cv/
 
+  - title: "Lab Group"
+    url: /lab-group/    
+
+  - title: "Facilities"
+    url: /facilities/    
+
   - title: "Contact"
     url: /contact/    
     
