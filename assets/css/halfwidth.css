@@ -1,0 +1,5 @@
+.half-width-image {
+    width: 50% !important; /* Forces the image to be half of its original width */
+    height: auto; /* Keeps the aspect ratio of the image */
+  }
+  
