@@ -40,24 +40,24 @@ _Ecological significance of dew and small precipitation events_<br>
 <img src="http://berkelha.people.uic.edu/wp-content/uploads/Francois_ritter.jpeg" alt="Francois Ritter" style="width: 50%; height: auto;">
 
 **Ben Alsip:** Masters Student (at EPA)<br>
-_Carbonyl sulfide fluxes from a restored prairie in Illinois_<br>  
+_Carbonyl sulfide fluxes from a restored prairie in Illinois_<br>
 <img src="http://berkelha.people.uic.edu/wp-content/uploads/unnamed.jpg" alt="Ben Alsip" style="width: 50%; height: auto;">
 
 **Ann Cosgrove:** Masters student (at WeWork)<br>
-_The atmospheric footprint of Chicago’s Urban Heat Island._<br>  
+_The atmospheric footprint of Chicago’s Urban Heat Island._<br>
 <img src="http://berkelha.people.uic.edu/wp-content/uploads/IMG_6605.jpg" alt="Ann Cosgrove" style="width: 50%; height: auto;">
 
 **Megan Castro:** Undergraduate Research Assistant (at Michigan State University)<br>
 _Stable isotope analysis of old growth hemlocks from UP Michigan_
 
-**Ioana Stefanescu:** Undergraduate Research Assistant (at U. Wyoming)<br>  
-_Stable isotope analysis of Rocky Mountain tree rings_<br>  
+**Ioana Stefanescu:** Undergraduate Research Assistant (at U. Wyoming)<br>
+_Stable isotope analysis of Rocky Mountain tree rings_<br>
 <img src="http://berkelha.people.uic.edu/wp-content/uploads/IMG_4614.jpg" alt="Ioana Stefanescu" style="width: 50%; height: auto;">
 
 **Jesus Campos:** Undergraduate Research Assistant (at UCI)<br>
-_Inverse modeling of carbonyl sulfide over continental US_<br>  
+_Inverse modeling of carbonyl sulfide over continental US_<br>
 <img src="http://berkelha.people.uic.edu/wp-content/uploads/IMG_4614.jpg" alt="Blanca Escutia" style="width: 50%; height: auto;">
 
-**Blanca Escutia:** Undergraduate Research Assistant<br>  
-_Isotopic ratio of permafrost pore waters_<br>  
+**Blanca Escutia:** Undergraduate Research Assistant<br>
+_Isotopic ratio of permafrost pore waters_<br>
 <img src="http://berkelha.people.uic.edu/wp-content/uploads/IMG_2461.jpg" alt="Blanca Escutia" style="width: 50%; height: auto;">
