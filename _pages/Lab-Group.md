@@ -52,7 +52,7 @@ _Stable isotope analysis of old growth hemlocks from UP Michigan_
 
 **Ioana Stefanescu:** Undergraduate Research Assistant (at U. Wyoming)<br>
 _Stable isotope analysis of Rocky Mountain tree rings_<br>
-<img src="http://berkelha.people.uic.edu/wp-content/uploads/IMG_4614.jpg" alt="Ioana Stefanescu" style="width: 50%; height: auto;">
+<img src="http://berkelha.people.uic.edu/wp-content/uploads/lab.jpg" alt="Ioana Stefanescu" style="width: 50%; height: auto;">
 
 **Jesus Campos:** Undergraduate Research Assistant (at UCI)<br>
 _Inverse modeling of carbonyl sulfide over continental US_<br>
