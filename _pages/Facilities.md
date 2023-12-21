@@ -11,7 +11,7 @@ redirect_from:
 
 <h1 style="font-size: 40px; font-weight: bold; text-align: center; margin-bottom: 0.5em;">Facilities</h1>
 
-<h1 style="font-size: 40px; font-weight: bold; text-align: center; margin-bottom: 0.5em;">Facilities</h1>
+<img src="http://berkelha.people.uic.edu/wp-content/uploads/FullSizeRender-3.jpg" alt="FullSizeRender-3" class="half-width-image" />
 
 1) **IRMS**: 2 x Thermo Fisher Isotope Ratio Mass Spectrometer (Precision) with TC/EA, Gas bench, and Combustion peripherals
 
