@@ -48,7 +48,7 @@ _The atmospheric footprint of Chicago’s Urban Heat Island._<br>
 <img src="http://berkelha.people.uic.edu/wp-content/uploads/IMG_6605.jpg" alt="Ann Cosgrove" style="width: 50%; height: auto;">
 
 **Megan Castro:** Undergraduate Research Assistant (at Michigan State University)<br>
-_Stable isotope analysis of old growth hemlocks from UP Michigan_<br>  
+_Stable isotope analysis of old growth hemlocks from UP Michigan_
 
 **Ioana Stefanescu:** Undergraduate Research Assistant (at U. Wyoming)<br>  
 _Stable isotope analysis of Rocky Mountain tree rings_<br>  
