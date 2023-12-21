@@ -21,7 +21,7 @@ _Remote sensing of high latitude sea surface salinity_<br>
 <img src="http://berkelha.people.uic.edu/wp-content/uploads/177528_10150910599964678_1549231334_o.jpg" alt="Cynthia Garcia-Eidell" style="width: 50%; height: auto;">
 
 **Anthony Bellagamba:** PhD Student<br>
-_Latent heat flux partitioning of Antarctic Dry Valley lakes._
+_Latent heat flux partitioning of Antarctic Dry Valley lakes._<br>
 <img src="http://berkelha.people.uic.edu/wp-content/uploads/Me-Antarctica.jpg" alt="Anthony Bellagamba" style="width: 50%; height: auto;">
 
 **Frank Zurek:** MS Student<br>
@@ -36,5 +36,5 @@ _Climatological trends and ecological effects of changing surface frost frequenc
 ## Alumni
 
 **Francois Ritter:** PhD Student<br>
-_Ecological significance of dew and small precipitation events_
+_Ecological significance of dew and small precipitation events_<br>
 <img src="http://berkelha.people.uic.edu/wp-content/uploads/Francois_ritter.jpeg" alt="Francois Ritter" style="width: 50%; height: auto;">
