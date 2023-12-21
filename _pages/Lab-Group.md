@@ -13,22 +13,18 @@ redirect_from:
 
 ## Current Group Members
 
-**Benjamin Ahlswede:** Postdoctoral Research Fellow
-
+**Benjamin Ahlswede:** Postdoctoral Research Fellow<br>
 _Dynamic roots and turnover time in an Earth System Model_
 
-**Cynthia Garcia-Eidell:** PhD Student,  ACM SIGHPC/Intel Fellow
-
+**Cynthia Garcia-Eidell:** PhD Student,  ACM SIGHPC/Intel Fellow<br>
 _Remote sensing of high latitude sea surface salinity_
 <img src="http://berkelha.people.uic.edu/wp-content/uploads/177528_10150910599964678_1549231334_o.jpg" alt="Cynthia Garcia-Eidell" style="width: 50%; height: auto;">
 
-**Anthony Bellagamba:** PhD Student
-
+**Anthony Bellagamba:** PhD Student<br>
 _Latent heat flux partitioning of Antarctic Dry Valley lakes._
 <img src="http://berkelha.people.uic.edu/wp-content/uploads/Me-Antarctica.jpg" alt="Anthony Bellagamba" style="width: 50%; height: auto;">
 
-**Frank Zurek:** MS Student
-
+**Frank Zurek:** MS Student<br>
 _Climatological trends and ecological effects of changing surface frost frequency across the western US alpine regions._
 
 **Angellica Kucinski:** Undergraduate researcher
@@ -39,7 +35,6 @@ _Climatological trends and ecological effects of changing surface frost frequenc
 
 ## Alumni
 
-**Francois Ritter:** PhD Student
-
+**Francois Ritter:** PhD Student<br>
 _Ecological significance of dew and small precipitation events_
 <img src="http://berkelha.people.uic.edu/wp-content/uploads/Francois_ritter.jpeg" alt="Francois Ritter" style="width: 50%; height: auto;">
