@@ -195,7 +195,7 @@ figure {
   }
 
   img {
-    width: 100%;
+    width: 50%;
     border-radius: $border-radius;
     -webkit-transition: $global-transition;
     transition: $global-transition;
@@ -214,7 +214,7 @@ figure {
     }
 
     figcaption {
-      width: 100%;
+      width: 50%;
     }
   }
 
@@ -227,7 +227,7 @@ figure {
     }
 
     figcaption {
-      width: 100%;
+      width: 50%;
     }
   }
 }
