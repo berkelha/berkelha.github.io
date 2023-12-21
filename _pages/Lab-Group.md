@@ -17,7 +17,7 @@ redirect_from:
 _Dynamic roots and turnover time in an Earth System Model_
 
 **Cynthia Garcia-Eidell:** PhD Student,  ACM SIGHPC/Intel Fellow<br>
-_Remote sensing of high latitude sea surface salinity_
+_Remote sensing of high latitude sea surface salinity_<br>
 <img src="http://berkelha.people.uic.edu/wp-content/uploads/177528_10150910599964678_1549231334_o.jpg" alt="Cynthia Garcia-Eidell" style="width: 50%; height: auto;">
 
 **Anthony Bellagamba:** PhD Student<br>
