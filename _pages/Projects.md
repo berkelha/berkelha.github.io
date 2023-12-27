@@ -9,9 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-<h1 style="font-size: 40px; font-weight: bold; text-align: center; margin-bottom: 0.5em;">Projects</h1>
+<h1 style="font-size: 40px; font-weight: bold; margin-bottom: 0.5em;">Projects</h1>
 
-======
 ### Active
 * NSF-RISE: Building Equitable University-Community Geoscience Research Collaborations on Chicago’s South Side. (2024-2026) Amount $299,000 (Lead PI)
 * NSF-DEB: Collaborative Research: MRA: Dew impacts on ecosystem carbon, energy and water fluxes at continental scale – a synthesis across NEON sites
