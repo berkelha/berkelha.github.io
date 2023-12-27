@@ -16,6 +16,6 @@ redirect_from:
 **Physical:** 845 W. Taylor St. SES Room 2456  
 **Lab:** SES Room 2350
 
-<img src="/images/contact/CHIFOG_02.jpg" alt="Photo by Ann Cosgrove" style="width: 65%; height: auto;"><br>
+<img src='/images/500x300.png' alt="Photo by Ann Cosgrove" style="width: 65%; height: auto;"><br>
 
 I am somewhere under the fog… Photo by Ann Cosgrove
