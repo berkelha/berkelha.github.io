@@ -13,6 +13,22 @@ redirect_from:
 
 ## Current Group Members
 
+**Jangho Lee:** Postdoctoral Researcher<br>
+
+**Bilal Kaludi:** Data scientist<br>
+
+**LaTreesha Washington:** MS Student<br>
+
+**Thomas Sanchez:** Field technician<br>
+
+**Frank Zurek:** MS Student<br>
+_Climatological trends and ecological effects of changing surface frost frequency across the western US alpine regions._
+
+
+---
+
+## Alumni
+
 **Benjamin Ahlswede:** Postdoctoral Research Fellow<br>
 _Dynamic roots and turnover time in an Earth System Model_
 
@@ -24,16 +40,9 @@ _Remote sensing of high latitude sea surface salinity_<br>
 _Latent heat flux partitioning of Antarctic Dry Valley lakes._<br>
 <img src="http://berkelha.people.uic.edu/wp-content/uploads/Me-Antarctica.jpg" alt="Anthony Bellagamba" style="width: 50%; height: auto;">
 
-**Frank Zurek:** MS Student<br>
-_Climatological trends and ecological effects of changing surface frost frequency across the western US alpine regions._
-
 **Angellica Kucinski:** Undergraduate researcher
 
 **Melissa Carter:** Undergraduate researcher
-
----
-
-## Alumni
 
 **Francois Ritter:** PhD Student<br>
 _Ecological significance of dew and small precipitation events_<br>
