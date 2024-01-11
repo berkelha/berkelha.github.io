@@ -17,3 +17,4 @@ redirect_from:
 * **Land Climate Interactions (EaES 573)
 * **CLimate, Contamination and Chicago (EaES 105)
 * **Science and Rhetoric of Climate Change (EaES 203)
+* **Study Abroad in Puerto Rico (LaLS 296)
