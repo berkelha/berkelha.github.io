@@ -16,4 +16,4 @@ redirect_from:
 * **Stable Isotope Biogeochemistry (EaES 513)
 * **Land Climate Interactions (EaES 573)
 * **CLimate, Contamination and Chicago (EaES 105)
-* * **Science and Rhetoric of Climate Change (EaES 203)
+* **Science and Rhetoric of Climate Change (EaES 203)
