@@ -18,11 +18,11 @@ redirect_from:
 (2023-2027) Amount $347,157 (PI)
 
 * DOE-BER: Community Research On Climate and Urban Science (CROCUS). (2022-2026) Amount $6,067,291 (PI)
-* 
+  
 * NASA Illinois Space Grant Consortium: Multiple Undergraduate Research Projects (MURP). (2020-ongoing) Amount $~25,000/yr (PI)
-* 
+  
 * DOE-BER: Integrating Tree Hydraulic Trait, Forest Stand Structure, and Topographic Controls on Ecohydrologic Function in a Rocky Mountain Subalpine Watershed. (2022-2025) Amount $88,524 (PI)
-* 
+  
 * DOE-TES: Water foraging with dynamic roots in E3SM; The role of roots in terrestrial ecosystem memory on intermediate timescales. (2019-2022) Amount $271,691 (Lead PI)
 
 ### Completed Projected
