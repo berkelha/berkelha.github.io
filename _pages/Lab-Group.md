@@ -15,14 +15,14 @@ redirect_from:
 
 **Jangho Lee:** Postdoctoral Researcher<br>
 
-**Bilal Kaludi:** Data scientist<br>
-
 **LaTreesha Washington:** MS Student<br>
+
+**Frank Zurek:** MS Student<br>
+_Climatological trends and ecological effects of changing surface frost frequency across the western US alpine regions_
 
 **Thomas Sanchez:** Field technician<br>
 
-**Frank Zurek:** MS Student<br>
-_Climatological trends and ecological effects of changing surface frost frequency across the western US alpine regions._
+**Bilal Kaludi:** Data scientist<br>
 
 
 ---
@@ -33,12 +33,11 @@ _Climatological trends and ecological effects of changing surface frost frequenc
 _Dynamic roots and turnover time in an Earth System Model_
 
 **Cynthia Garcia-Eidell:** PhD Student,  ACM SIGHPC/Intel Fellow<br>
-_Remote sensing of high latitude sea surface salinity_<br>
-<img src="http://berkelha.people.uic.edu/wp-content/uploads/177528_10150910599964678_1549231334_o.jpg" alt="Cynthia Garcia-Eidell" style="width: 50%; height: auto;">
+_Life on the Margins: Dynamic Changes Along Sea Ice Edges,Coastal Margins, and Watershed Interfaces as Observed from Space_<br>
 
 **Anthony Bellagamba:** PhD Student<br>
-_Latent heat flux partitioning of Antarctic Dry Valley lakes._<br>
-<img src="http://berkelha.people.uic.edu/wp-content/uploads/Me-Antarctica.jpg" alt="Anthony Bellagamba" style="width: 50%; height: auto;">
+_A Drop in the Bucket: Hydrometeors and Surface Water / Ice Reservoir Isotope Exchange with the Atmosphere_<br>
+
 
 **Angellica Kucinski:** Undergraduate researcher
 
