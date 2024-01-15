@@ -11,7 +11,7 @@ redirect_from:
 
 <h1 style="font-size: 40px; font-weight: bold; margin-bottom: 0.5em;">Teaching</h1>
 
-**CLimate, Contamination and Chicago (EaES 105)**
+**CLimate, Contamination and Chicago (EaES 105)**<br>
 **Science and Rhetoric of Climate Change (EaES 203)**
 **Learning from Puerto Rico: Measuring PR—Climate Change, Politics, Economics (LaLS 296)**
 **Earth Systems (EaES 285)**
