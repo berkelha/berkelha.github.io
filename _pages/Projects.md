@@ -23,9 +23,9 @@ redirect_from:
   
 * DOE-BER: Integrating Tree Hydraulic Trait, Forest Stand Structure, and Topographic Controls on Ecohydrologic Function in a Rocky Mountain Subalpine Watershed. (2022-2025) Amount $88,524 (PI)
   
-* DOE-TES: Water foraging with dynamic roots in E3SM; The role of roots in terrestrial ecosystem memory on intermediate timescales. (2019-2022) Amount $271,691 (Lead PI)
 
 ### Completed Projected
+* DOE-TES: Water foraging with dynamic roots in E3SM; The role of roots in terrestrial ecosystem memory on intermediate timescales. (2019-2022) Amount $271,691 (Lead PI)
 * DOE-Subsurface Biogeochemical Research: Space and Time Dynamics of Transpiration in the East River Watershed: Biotic and Abiotic Controls. (2018-2020) Amount $199,691 (Lead PI)
 * Woodrow Wilson Foundation/Course Hero: (2018-2019). Fellowship for Excellence in Teaching.  Amount: $39,740 (Lead PI)
 * NSF Atmospheric and Geospace Sciences (2015-2018): Rocky Mountain Ecohydrology During the Eemian Interglacial. Amount: $313,243. (Lead PI)
