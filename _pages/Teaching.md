@@ -11,10 +11,11 @@ redirect_from:
 
 <h1 style="font-size: 40px; font-weight: bold; margin-bottom: 0.5em;">Teaching</h1>
 
+* **CLimate, Contamination and Chicago (EaES 105)
+* **Science and Rhetoric of Climate Change (EaES 203)
+* **Learning from Puerto Rico: Measuring PR—Climate Change, Politics, Economics (LaLS 296)
 * **Earth Systems (EaES 285)
 * **Soils and the Environment (EaES (473)
 * **Stable Isotope Biogeochemistry (EaES 513)
 * **Land Climate Interactions (EaES 573)
-* **CLimate, Contamination and Chicago (EaES 105)
-* **Science and Rhetoric of Climate Change (EaES 203)
-* **Study Abroad in Puerto Rico (LaLS 296)
+
