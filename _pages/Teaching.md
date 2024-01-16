@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<h1 style="font-size: 40px; font-weight: bold; margin-bottom: 0.5em;">Teaching</h1>
+<h1 style="font-size: 40px; font-weight: bold; margin-bottom: 0.5em;">Projects</h1>
 
 **Climate, Contamination and Chicago (EaES 105)**<br>
 **Science and Rhetoric of Climate Change (EaES 203)**<br>
