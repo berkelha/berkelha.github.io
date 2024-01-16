@@ -53,13 +53,13 @@ _The atmospheric footprint of Chicago’s Urban Heat Island._<br>
 
 **Melissa Carter:** Undergraduate researcher
 
-**Megan Castro:** Undergraduate Research Assistant (at Michigan State University)<br>
+**Megan Castro:** Undergraduate Research Assistant currently graduate student at Michigan State University<br>
 _Stable isotope analysis of old growth hemlocks from UP Michigan_
 
-**Ioana Stefanescu:** Undergraduate Research Assistant (at U. Wyoming)<br>
+**Ioana Stefanescu:** Undergraduate Research Assistant currently PhD student at U. Wyoming<br>
 _Stable isotope analysis of Rocky Mountain tree rings_<br>
 
-**Jesus Campos:** Undergraduate Research Assistant (at UCI)<br>
+**Jesus Campos:** Undergraduate Research Assistant currently graduate student at UCI<br>
 _Inverse modeling of carbonyl sulfide over continental US_<br>
 
 **Blanca Escutia:** Undergraduate Research Assistant<br>
