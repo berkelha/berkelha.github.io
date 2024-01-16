@@ -13,5 +13,4 @@ redirect_from:
 
 I am a professor in the Department of Earth and Environmental Sciences at University of Illinois Chicago. My research and teaching focus on the interactions between the land surface and atmosphere with an emphasis on the global carbon and water cycles. 
 
-![FermiLab AmeriFlux Site](https://github.com/Kaludii/mberk.github.io/blob/master/images/main/xid-53617990_2-1024x768.jpg?raw=true) The FermiLab AmeriFlux site #with EaES 473 Class, agriculture vs. tall grass…
 
