@@ -26,8 +26,13 @@ redirect_from:
 
 ### Completed Projected
 * DOE-TES: Water foraging with dynamic roots in E3SM; The role of roots in terrestrial ecosystem memory on intermediate timescales. (2019-2022) Amount $271,691 (Lead PI)
+  
 * DOE-Subsurface Biogeochemical Research: Space and Time Dynamics of Transpiration in the East River Watershed: Biotic and Abiotic Controls. (2018-2020) Amount $199,691 (Lead PI)
+  
 * Woodrow Wilson Foundation/Course Hero: (2018-2019). Fellowship for Excellence in Teaching.  Amount: $39,740 (Lead PI)
+  
 * NSF Atmospheric and Geospace Sciences (2015-2018): Rocky Mountain Ecohydrology During the Eemian Interglacial. Amount: $313,243. (Lead PI)
+  
 * NSF GP-IMPACT (2016-2020): Establishing Partnerships to Recruit Geoscience Undergraduates from Urban Chicago. Amount: $429, 363 (Co-PI)
+  
 * DOI Illinois Water Resources Center (2016-2017):  Under the Cover of Darkness: Nighttime Water Use by Native, Biofuel and Agricultural Crops of Illinois.  Amount: $36,764. (Lead PI)
