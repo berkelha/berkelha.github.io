@@ -13,15 +13,15 @@ redirect_from:
 
 * **EaES 105**: Climate, Contamination and Chicago
 
-* **EaES 203**:Science and Rhetoric of Climate Change 
+* **EaES 203**: Science and Rhetoric of Climate Change 
 
 * **LaLS 296**: Learning from Puerto Rico: Measuring PR—Climate Change, Politics, Economics 
 
 * **EaES 285**: Earth Systems
 
-* **EaES 473**:Soils and the Environment
+* **EaES 473**: Soils and the Environment
 
-* **EaES 513**:Stable Isotope Biogeochemistry 
+* **EaES 513**: Stable Isotope Biogeochemistry 
 
-* **EaES 573**:Land Climate Interactions 
+* **EaES 573**: Land Climate Interactions 
 
