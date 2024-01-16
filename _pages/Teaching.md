@@ -11,17 +11,17 @@ redirect_from:
 
 <h1 style="font-size: 40px; font-weight: bold; margin-bottom: 0.5em;">Projects</h1>
 
-* Climate, Contamination and Chicago (EaES 105)*<br>
+* **EaES 105**: Climate, Contamination and Chicago
 
-* Science and Rhetoric of Climate Change (EaES 203)**<br>
+* **EaES 203**:Science and Rhetoric of Climate Change 
 
-* Learning from Puerto Rico: Measuring PR—Climate Change, Politics, Economics (LaLS 296)**<br>
+* **LaLS 296**: Learning from Puerto Rico: Measuring PR—Climate Change, Politics, Economics 
 
-* Earth Systems (EaES 285)**<br>
+* **EaES 285**: Earth Systems
 
-* Soils and the Environment (EaES (473)**<br>
+* **EaES 473**:Soils and the Environment
 
-* Stable Isotope Biogeochemistry (EaES 513)**<br>
+* **EaES 513**:Stable Isotope Biogeochemistry 
 
-* Land Climate Interactions (EaES 573)**<br>
+* **EaES 573**:Land Climate Interactions 
 
