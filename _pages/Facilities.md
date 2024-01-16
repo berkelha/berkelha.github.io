@@ -15,25 +15,25 @@ redirect_from:
 
 2) **Water Isotopes**: Picarro l2140-i triple water isotope analyzer with autosampler for liquid injection<br>
 
-2) **Solar Induced Fluoresence Imaging**: Headwall Photonics SIF Imaging system<br>
+3) **Solar Induced Fluoresence Imaging**: Headwall Photonics SIF Imaging system<br>
 
-3) **Mobile Lab**: Ford eTransit electric cargo van with 50 feet pnematic masting system<br>
+4) **Mobile Lab**: Ford eTransit electric cargo van with 50 feet pnematic masting system<br>
 
-4) **Soil Analysis**: Hyprops2, Pario and Saturo systems for analysis of soil retention curves, hydraulic conductivity and texture<br>
+5) **Soil Analysis**: Hyprops2, Pario and Saturo systems for analysis of soil retention curves, hydraulic conductivity and texture<br>
 
-5) **Carbon Gas Isotopes**: Picarro 13CH4 and 13CO2 analyzer
+6) **Carbon Gas Isotopes**: Picarro 13CH4 and 13CO2 analyzer
 
-6) **Carbonyl sulfide**: Los Gatos Research Inc. OCS/CO/CO2 Analyzer
+7) **Carbonyl sulfide**: Los Gatos Research Inc. OCS/CO/CO2 Analyzer
 
-7) **Thermal Camera**: FLIR Ex53
+8) **Thermal Camera**: FLIR Ex53
 
-8) **Carbon Gas Isotopes**MicroAeth MA200 **Black Carbon** Analyzer
+9) **Carbon Gas Isotopes**MicroAeth MA200 **Black Carbon** Analyzer
 
-9) **Sap flow**: 30-40 SFM1 Heat Ratio Method SFM1 Sapflow sensors
+10) **Sap flow**: 30-40 SFM1 Heat Ratio Method SFM1 Sapflow sensors
 
-10) **Soil CO2**: Vaisala soil CO2 sensors and dataloggers
+11) **Soil CO2**: Vaisala soil CO2 sensors and dataloggers
 
-11) Wet lab/dry lab with extraction lines, balance, microscopes, drying oven, fume hood, muffle furnace, freeze dryer, chest freezer.
+12) Wet lab/dry lab with extraction lines, balance, microscopes, drying oven, fume hood, muffle furnace, freeze dryer, chest freezer.
 
-12) **Computing**: 2 High performance computing nodes. Specs: Intel(R) Xeon(R) CPU E5-2670 2.60GHz, 16 Cores, Cache Size : 20MB, Manufacturer’s model number : DELL ‘PowerEdge R620′, Chipset : Intel Corporation C600/X79 series, 128GB RAM, 1TB on-board hard drive<br>
-<img src="https://github.com/Kaludii/mberk.github.io/blob/master/images/facilities/L1020082-1000x562-648x364.jpg?raw=true" alt="L1020082-1000x562" style="width: 50%; height: auto;">
+13) **Computing**: 2 High performance computing nodes. Specs: Intel(R) Xeon(R) CPU E5-2670 2.60GHz, 16 Cores, Cache Size : 20MB, Manufacturer’s model number : DELL ‘PowerEdge R620′, Chipset : Intel Corporation C600/X79 series, 128GB RAM, 1TB on-board hard drive<br>
+
