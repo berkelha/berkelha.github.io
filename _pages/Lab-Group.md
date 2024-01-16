@@ -17,7 +17,7 @@ redirect_from:
 
 **LaTreesha Washington:** MS Student<br>
 
-**Frank Zurek:** MS Student<br>
+**Frank Zurek:** MS Student currently DOE ARM Technician<br>
 _Climatological trends and ecological effects of changing surface frost frequency across the western US alpine regions_
 
 **Thomas Sanchez:** Field technician<br>
@@ -29,22 +29,22 @@ _Climatological trends and ecological effects of changing surface frost frequenc
 
 ## Alumni
 
-**Benjamin Ahlswede:** Postdoctoral Research Fellow<br>
+**Benjamin Ahlswede:** Postdoctoral Research Fellow currently faculty at Penn State<br>
 _Dynamic roots and turnover time in an Earth System Model_
 
-**Cynthia Garcia-Eidell:** PhD Student,  ACM SIGHPC/Intel Fellow<br>
+**Cynthia Garcia-Eidell:** PhD Student currently at NOAA<br>
 _Life on the Margins: Dynamic Changes Along Sea Ice Edges,Coastal Margins, and Watershed Interfaces as Observed from Space_<br>
 
-**Anthony Bellagamba:** PhD Student<br>
+**Anthony Bellagamba:** PhD Student currently at Chicago Waldorf<br>
 _A Drop in the Bucket: Hydrometeors and Surface Water / Ice Reservoir Isotope Exchange with the Atmosphere_<br>
 
-**Francois Ritter:** PhD Student<br>
+**Francois Ritter:** PhD Student currently at LSCE Paris<br>
 _Ecological significance of dew and small precipitation events_<br>
 
-**Ben Alsip:** Masters Student (at EPA)<br>
+**Ben Alsip:** Masters Student currently at EPA<br>
 _Carbonyl sulfide fluxes from a restored prairie in Illinois_<br>
 
-**Ann Cosgrove:** Masters student (at WeWork)<br>
+**Ann Cosgrove:** Masters student currently at Density<br>
 _The atmospheric footprint of Chicago’s Urban Heat Island._<br>
 
 **Angellica Kucinski:** Undergraduate researcher
