@@ -66,7 +66,7 @@ _Inverse modeling of carbonyl sulfide over continental US_<br>
 _Isotopic ratio of permafrost pore waters_<br>
 
 **Danielle Petkunas:** Undergraduate Research Assistant<br>
-_Carbon monoxide fluxes from a tallgrass prairie _<br>
+_Carbon monoxide fluxes from a tallgrass prairie_<br>
 
 **Justin Klein:** Undergraduate Research Assistant<br>
 _Preparation of wood cellulose for isotopic analysis_<br>
