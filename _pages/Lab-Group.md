@@ -20,6 +20,8 @@ redirect_from:
 **Frank Zurek:** MS Student currently DOE ARM Technician<br>
 _Climatological trends and ecological effects of changing surface frost frequency across the western US alpine regions_
 
+**Zora Shannon:** Undegraduate researcher<br>
+
 **Thomas Sanchez:** Field technician<br>
 
 **Bilal Kaludi:** Data scientist<br>
