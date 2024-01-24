@@ -31,7 +31,7 @@ Funding and Awards
 * NSF-RISE: Building Equitable University-Community Geoscience Research Collaborations on Chicago’s South Side. (2024-2026) Amount $299,000 (Lead PI)
 * NSF-DEB: Collaborative Research: MRA: Dew impacts on ecosystem carbon, energy and water fluxes at continental scale – a synthesis across NEON sites
 (2023-2027) Amount $347,157 (PI)
-* DOE-BER: Community Research On Climate and Urban Science (CROCUS). (2022-2026) Amount $6,067,291 (PI)
+* DOE-BER: Community Research On Climate and Urban Science (CROCUS). (2022-2027) Amount $6,067,291 (PI)
 * NASA Illinois Space Grant Consortium: Multiple Undergraduate Research Projects (MURP). (2020-ongoing) Amount $~25,000/yr (PI)
 * DOE-BER: Integrating Tree Hydraulic Trait, Forest Stand Structure, and Topographic Controls on Ecohydrologic Function in a Rocky Mountain Subalpine Watershed. (2022-2025) Amount $88,524 (PI)
 * DOE-TES: Water foraging with dynamic roots in E3SM; The role of roots in terrestrial ecosystem memory on intermediate timescales. (2019-2022) Amount $271,691 (Lead PI)
@@ -46,7 +46,7 @@ Funding and Awards
 
 Publications
 ======
-* (64) Berkelhammer, M., Page, G. F., Zurek, F., Still, C., Carbone, M. S., Talavera, W., Hildebrand, L., Byron, J., Inthabandith, K., Kucinski, A., Carter, M., Foss, K., Brown, W., Carroll, R. W. H., Simonpietri, A., Worsham, M., Breckheimer, I., Ryken, A., Maxwell, R., Gochis, D., Raleigh, M., Small, E., and Williams, K. H (2024) Canopy structure modulates the sensitivity of subalpine forest stands to interannual snowpack and precipitation variability. Hydrology and Earth System Sciences. doi: 10.5194/egusphere-2023-3063
+* (64) Berkelhammer, M., Page, G. F., Zurek, F., Still, C., Carbone, M. S., Talavera, W., Hildebrand, L., Byron, J., Inthabandith, K., Kucinski, A., Carter, M., Foss, K., Brown, W., Carroll, R. W. H., Simonpietri, A., Worsham, M., Breckheimer, I., Ryken, A., Maxwell, R., Gochis, D., Raleigh, M., Small, E., and Williams, K. H (2024) Canopy structure modulates the sensitivity of subalpine forest stands to interannual snowpack and precipitation variability. Hydrology and Earth System Sciences Discussions. doi: 10.5194/egusphere-2023-3063
 * (63) M. Carbone,  A. Richardson, b. barr, **M. Berkelhammer**, C. Boot, A. Simonpietri, C. Still. (2023) Interannual precipitation controls on soil CO2 fluxes in high elevation conifer and aspen forests. Environmental Research Letters. doi: 10.1088/1748-9326/ad07b5
 * (62) Knowles et al., (2023) Bark beetle impacts on forest evapotranspiration and its partitioning. Science of the Total Environment. doi: 10.1016/j.scitotenv.2023.163260
 * (61) S. Shah, **M. Berkelhammer** et al., (2023) Regional tree-ring oxygen isotope deduced summer monsoon drought variability for Kumaun-Gharwal Himalaya. Quaternary Science Reviews. doi: 10.1016/j.quascirev.2022.107927
