@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<h1 style="font-size: 40px; font-weight: bold; margin-bottom: 0.5em;">Projects</h1>
+<h1 style="font-size: 40px; font-weight: bold; margin-bottom: 0.5em;">Classes</h1>
 
 * **EaES 105**: Climate, Contamination and Chicago
 
