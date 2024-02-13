@@ -26,6 +26,8 @@ _Climatological trends and ecological effects of changing surface frost frequenc
 
 **Bilal Kaludi:** Data scientist<br>
 
+**Kai Belcastro:** Undegraduate researcher<br>
+
 
 ---
 
