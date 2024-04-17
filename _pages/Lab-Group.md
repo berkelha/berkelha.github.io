@@ -78,10 +78,10 @@ _Preparation of wood cellulose for isotopic analysis_<br>
 **Jenny Bueno:** Undergraduate Research Assistant<br>
 _Plant sulfur and carbon fluxes under controlled laboratory setting_<br>
 
-**Lucero Serrano (left):** Undergraduate Research Assistant<br>
+**Lucero Serrano:** Undergraduate Research Assistant<br>
 _Cyrogenic Extraction specialist_<br>
 
-**Omar Ortiz (right):** Undergraduate Research Assistant<br>
+**Omar Ortiz:** Undergraduate Research Assistant<br>
 _Soil incubator_<br>
 
 **Esther Yim:** Undergraduate Research Assistant<br>
@@ -89,10 +89,10 @@ _Isotopic ratios of snowpack and rainwaters in the intermountain West_<br>
 
 **Abe Beloso:** Lab Technician<br>
 
-**Ross Perez (center):** Undergraduate Research Assistant<br>
+**Ross Perez:** Undergraduate Research Assistant<br>
 _Gravity expert_<br>
 
-**Richard Shell (left):** Undergraduate Research Assistant<br>
+**Richard Shell:** Undergraduate Research Assistant<br>
 _Isotopic analysis of Indian tree cores_<br>
 
 **Dariusz “the pipette master” Horwat:** Undergraduate Research Assistant<br>
