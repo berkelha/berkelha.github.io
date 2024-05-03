@@ -46,7 +46,9 @@ Funding and Awards
 
 Publications
 ======
-* (66)C. Jernigan, M. Rivard, **M. Berkelhammer**, and T. Bertram (2024) Sulfate and Carbonyl Sulfide Production in Aqueous Reactions of Hydroperoxymethyl Thioformate. ACS: Air. doi: 10.1021/acsestair.3c00098
+* (67) J. Lee, **M. Berkelhammer**, M. Wilson and N. Love (2024) Urban Land Surface Temperature Downscaling in Chicago: Addressing
+Ethnic Inequality and Gentrification. Remote Sensing
+* (66) C. Jernigan, M. Rivard, **M. Berkelhammer**, and T. Bertram (2024) Sulfate and Carbonyl Sulfide Production in Aqueous Reactions of Hydroperoxymethyl Thioformate. ACS: Air. doi: 10.1021/acsestair.3c00098
 * (65) A. Bellagamba, **M. Berkelhammer**, HC Steen-Larsen, K. Pearce and Y. Hamed (2024) Isotopic Fractionation During Sublimation of Low Porosity Ice. ESS Open Archive. doi: 10.22541/essoar.170688861.16991815
 * (64) **M. Berkelhammer**, Page, G. F., Zurek, F., Still, C., Carbone, M. S., Talavera, W., Hildebrand, L., Byron, J., Inthabandith, K., Kucinski, A., Carter, M., Foss, K., Brown, W., Carroll, R. W. H., Simonpietri, A., Worsham, M., Breckheimer, I., Ryken, A., Maxwell, R., Gochis, D., Raleigh, M., Small, E., and Williams, K. H (2024) Canopy structure modulates the sensitivity of subalpine forest stands to interannual snowpack and precipitation variability. Hydrology and Earth System Sciences Discussions. doi: 10.5194/egusphere-2023-3063
 * (63) M. Carbone,  A. Richardson, b. barr, **M. Berkelhammer**, C. Boot, A. Simonpietri, C. Still. (2023) Interannual precipitation controls on soil CO2 fluxes in high elevation conifer and aspen forests. Environmental Research Letters. doi: 10.1088/1748-9326/ad07b5
