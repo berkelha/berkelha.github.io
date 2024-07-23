@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 2em;">
-  <h1 style="font-size: 40px; font-weight: bold; margin-bottom: 0; margin-right: 20px;">Atmosphere, Climate and Ecosystems Lab @ UIC!</h1>
+<h1 style="font-size: 40px; font-weight: bold; margin-bottom: 0.5em;">Atmosphere, Climate and Ecosystems Lab @ UIC!</h1>
 
 We are housed in the Department of Earth and Environmental Sciences at University of Illinois Chicago. Our research and teaching focus on the interactions between the land surface and atmosphere across landscapes including urban systems, glaciers, forests, grasslands and agricultural system. We emphasize the global carbon and water cycles but also address local problems with impacts on society.
 
