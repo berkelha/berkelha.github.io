@@ -46,7 +46,7 @@ Funding and Awards
 
 Publications
 ======
-* (67) J. Lee and **M. Berkelhammer** (under review) Observational Constraints on the Spatial Effect of Greenness and Canopy Cover on Urban Air Temperatures in a Major Midlatitude City
+* (68) J. Lee and **M. Berkelhammer** (under review) Observational Constraints on the Spatial Effect of Greenness and Canopy Cover on Urban Air Temperatures in a Major Midlatitude City
 * (67) J. Lee, **M. Berkelhammer**, M. Wilson and N. Love (2024) Urban Land Surface Temperature Downscaling in Chicago: Addressing
 Ethnic Inequality and Gentrification. Remote Sensing. doi: 10.3390/rs16091639
 * (66) C. Jernigan, M. Rivard, **M. Berkelhammer**, and T. Bertram (2024) Sulfate and Carbonyl Sulfide Production in Aqueous Reactions of Hydroperoxymethyl Thioformate. ACS: Air. doi: 10.1021/acsestair.3c00098
