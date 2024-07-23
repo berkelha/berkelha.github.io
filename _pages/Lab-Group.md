@@ -18,7 +18,6 @@ redirect_from:
 **LaTreesha Washington:** MS Student<br>
 
 **Frank Zurek:** MS Student currently DOE ARM Technician<br>
-_Climatological trends and ecological effects of changing surface frost frequency across the western US alpine regions_
 
 **Bilal Kaludi:** Data scientist<br>
 
