@@ -25,7 +25,7 @@ redirect_from:
 
 **Melinda Martinez:** MS Student<br>
 
-**Thomas Sanchez:** Field technician<br>
+**CJ Sagi:** Undegraduate researcher<br>
 
 **Zora Shannon:** Undegraduate researcher<br>
 
@@ -57,6 +57,8 @@ _Carbonyl sulfide fluxes from a restored prairie in Illinois_<br>
 
 **Ann Cosgrove:** Masters student currently at Density<br>
 _The atmospheric footprint of Chicago’s Urban Heat Island._<br>
+
+**Thomas Sanchez:** Field technician<br>
 
 **Angellica Kucinski:** Undergraduate researcher
 
