@@ -46,6 +46,7 @@ Funding and Awards
 
 Publications
 ======
+* (69) A. Bellagamba, **M. Berkelhammer**, Y. Hamed, K Pearce and HC Steen-Larsen (2024) Isotopic Fractionation during Sublimation of Low Porosity Ice. Chemical Geology.doi: 10.1016/j.chemgeo.2024.122445
 * (68) J. Lee and **M. Berkelhammer** (under review) Observational Constraints on the Spatial Effect of Greenness and Canopy Cover on Urban Air Temperatures in a Major Midlatitude City
 * (67) J. Lee, **M. Berkelhammer**, M. Wilson and N. Love (2024) Urban Land Surface Temperature Downscaling in Chicago: Addressing
 Ethnic Inequality and Gentrification. Remote Sensing. doi: 10.3390/rs16091639
