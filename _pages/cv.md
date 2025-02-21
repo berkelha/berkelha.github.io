@@ -49,7 +49,7 @@ Publications
 ======
 * (69) L. Anderson, B. Brice, A. Mast and **M. Berkelhammer** (2024) Testing tree-ring cellulose δ18O with water isotopes for Holocene lake δ18O interpretations in the central Rocky Mountains USA. The Holocene. doi: 10.1177/09596836241286007
 * (68) A. Bellagamba, **M. Berkelhammer**, Y. Hamed, K Pearce and HC Steen-Larsen (2024) Isotopic Fractionation during Sublimation of Low Porosity Ice. Chemical Geology.doi: 10.1016/j.chemgeo.2024.122445
-* (67) J. Lee and **M. Berkelhammer** (2024) Observational Constraints on the Spatial Effect of Greenness and Canopy Cover on Urban Air Temperatures in a Major Midlatitude City
+* (67) J. Lee and **M. Berkelhammer** (2024) Observational Constraints on the Spatial Effect of Greenness and Canopy Cover on Urban Air Temperatures in a Major Midlatitude City. Geophysical Research Letters. doi: 10.1029/2024GL110847
 * (66) J. Lee, **M. Berkelhammer**, M. Wilson and N. Love (2024) Urban Land Surface Temperature Downscaling in Chicago: Addressing
 Ethnic Inequality and Gentrification. Remote Sensing. doi: 10.3390/rs16091639
 * (65) C. Jernigan, M. Rivard, **M. Berkelhammer**, and T. Bertram (2024) Sulfate and Carbonyl Sulfide Production in Aqueous Reactions of Hydroperoxymethyl Thioformate. ACS: Air. doi: 10.1021/acsestair.3c00098
