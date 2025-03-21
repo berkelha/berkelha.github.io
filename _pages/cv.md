@@ -32,7 +32,7 @@ Funding and Awards
 * NSF-RISE: Building Equitable University-Community Geoscience Research Collaborations on Chicago’s South Side. (2024-2026) Amount $299,000 (Lead PI)
 * NSF-DEB: Collaborative Research: MRA: Dew impacts on ecosystem carbon, energy and water fluxes at continental scale – a synthesis across NEON sites
 (2023-2027) Amount $347,157 (PI)
-* DOE-BER: Community Research On Climate and Urban Science (CROCUS). (2022-2027) Amount $6,067,291 (PI)
+* DOE-BER: CROCUS. (2022-2027) Amount $6,067,291 (PI)
 * NASA Illinois Space Grant Consortium: Multiple Undergraduate Research Projects (MURP). (2020-ongoing) Amount $~25,000/yr (PI)
 * DOE-BER: Integrating Tree Hydraulic Trait, Forest Stand Structure, and Topographic Controls on Ecohydrologic Function in a Rocky Mountain Subalpine Watershed. (2022-2025) Amount $88,524 (PI)
 
