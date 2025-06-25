@@ -12,6 +12,8 @@ redirect_from:
 <h1 style="font-size: 40px; font-weight: bold; margin-bottom: 0.5em;">Projects</h1>
 
 ### Active Projects
+* NSF-AGS: Collaborative Research: NSFGEO-DFG-BSF: The contribution of coastal systems to the atmospheric carbonyl sulfide budget using tower-based fluxes, isotopic measurements and modeling (2025-2028) Amount $405,600 (lead PI)
+
 * DOE-BER: Effects of Yellow Cypress Decline on Coastal Temperate Rainforest Climate Interactions (2024-2027) Amount $999,954 (co-PI)
 
 * NSF-RISE: Building Equitable University-Community Geoscience Research Collaborations on Chicago’s South Side. (2024-2026) Amount $299,000 (Lead PI)
