@@ -13,8 +13,9 @@ redirect_from:
 
 Appointments
 ======
+* Professor: University of Illinois Chicago, 2025-present
 * Visiting/Sabbatical Researcher: Woodwell Climate Research Center, 2023
-* Associate Professor: University of Illinois Chicago, 2020-present
+* Associate Professor: University of Illinois Chicago, 2020-2024
 * Assistant Professor: University of Illinois Chicago, 2014-2020
 * Visiting Professor: Colorado College, 2013
 * Postdoctoral Research Associate: University of Colorado/CIRES, 2010-2013
