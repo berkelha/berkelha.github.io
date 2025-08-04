@@ -49,6 +49,7 @@ Funding and Awards
 
 Publications
 ======
+* (72) J. Lee and **M. Berkelhammer** (2025). Evaluating the Influence of Traffic Congestion on Surface Urban Heat Island Intensity. Geophysical Research Letters
 * (71) A. Cho, N. Love, R. Cintron, J. Nicholson, L. Xu, G. C Nunez-Mir, J. Lee, **M. Berkelhammer** and MA Gonzalez-Meler (2025). Plant species selection and participatory community co-design are essential in balancing ecosystem services and disservices in urban areas. Environmental Research Letters, 20(5), 051003. doi:10.1088/1748-9326/adc944
 * (70) Lee, J., **M. Berkelhammer**, Park, S. Y., & Wilson, M. D. (2025). Analysis of urban flooding in Chicago based on crowdsourced data: drivers and the need for community-based mitigation strategies. Environmental Research Infrastructure and Sustainability. doi:10.1088/2634-4505/add4eb
 * (69) L. Anderson, B. Brice, A. Mast and **M. Berkelhammer** (2024) Testing tree-ring cellulose δ18O with water isotopes for Holocene lake δ18O interpretations in the central Rocky Mountains USA. The Holocene. doi: 10.1177/09596836241286007
