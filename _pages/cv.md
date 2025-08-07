@@ -29,7 +29,7 @@ Education
 Funding and Awards
 ======
 ### Active
-* NSF-AGS: Collaborative Research: NSFGEO-DFG-BSF: The contribution of coastal systems to the atmospheric carbonyl sulfide budget using tower-based fluxes, isotopic measurements and modeling (2025-2028) Amount $405,600 (lead PI)
+* NSF-AGS: Collaborative Research: NSFGEO-DFG-BSF: The contribution of coastal systems to the atmospheric carbonyl sulfide budget using tower-based fluxes, isotopic measurements and modeling (2025-2028) Amount $1,800,000 with $405,600 to UIC (lead PI)
 * DOE-BER: Effects of Yellow Cypress Decline on Coastal Temperate Rainforest Climate Interactions (2024-2027) Amount $999,954 (co-PI)
 * NSF-RISE: Building Equitable University-Community Geoscience Research Collaborations on Chicago’s South Side. (2024-2026) Amount $299,000 (Lead PI)
 * NSF-DEB: Collaborative Research: MRA: Dew impacts on ecosystem carbon, energy and water fluxes at continental scale – a synthesis across NEON sites
