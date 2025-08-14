@@ -49,6 +49,7 @@ Funding and Awards
 
 Publications
 ======
+* (74) N. Love, **M. Berkelhammer**, E. Tovar, S. Romy, M. Wilson, G. Nunez-Mir (2025) Not all green is equal: Growth form predicts urban vegetation.  Remote Sensing.
 * (73) M. Sprenger, S. Seeger, **M. Berkelhammer**, N. Bogie, R. Hess, W. Brown, S. Kuppel, J. Knighton (2025) Opportunistic Short-term Water Uptake Dynamics by Subalpine Trees Observed via in situ Water Isotope Measurements.  Water Resources Research.
 * (72) J. Lee and **M. Berkelhammer** (2025). Evaluating the Influence of Traffic Congestion on Surface Urban Heat Island Intensity. Geophysical Research Letters. doi: 10.1029/2025GL116651
 * (71) A. Cho, N. Love, R. Cintron, J. Nicholson, L. Xu, G. C Nunez-Mir, J. Lee, **M. Berkelhammer** and MA Gonzalez-Meler (2025). Plant species selection and participatory community co-design are essential in balancing ecosystem services and disservices in urban areas. Environmental Research Letters, 20(5), 051003. doi:10.1088/1748-9326/adc944
