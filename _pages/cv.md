@@ -50,7 +50,7 @@ Funding and Awards
 Publications
 ======
 
-* (75) J. Lee, S.Y. Park, A. Wadhwa, A. Packman, S. W. Nesbitt, A. Sharma, **M. Berkelhammer**, M. H. Garcia, R. Kotamarthi, D. Hence and W. M. Miller (2025). Environ. Res.: Water. doi: 10.1088/3033-4942/ae0aed
+* (75) J. Lee, S.Y. Park, A. Wadhwa, A. Packman, S. W. Nesbitt, A. Sharma, **M. Berkelhammer**, M. H. Garcia, R. Kotamarthi, D. Hence and W. M. Miller (2025). Comparing multi-source urban flood indicators: satellite, simulation, and citizen-reported data. Environmental Research: Water. doi: 10.1088/3033-4942/ae0aed
 * (74) N. Love, **M. Berkelhammer**, E. Tovar, S. Romy, M. Wilson, G. Nunez-Mir (2025) Not all green is equal: Growth form predicts urban vegetation.  Remote Sensing. doi: 10.3390/rs17172919
 * (73) M. Sprenger, S. Seeger, **M. Berkelhammer**, N. Bogie, R. Hess, W. Brown, S. Kuppel, J. Knighton (2025) Opportunistic Short-term Water Uptake Dynamics by Subalpine Trees Observed via in situ Water Isotope Measurements.  Water Resources Research. doi: 10.1029/2024WR039171
 * (72) J. Lee and **M. Berkelhammer** (2025). Evaluating the Influence of Traffic Congestion on Surface Urban Heat Island Intensity. Geophysical Research Letters. doi: 10.1029/2025GL116651
