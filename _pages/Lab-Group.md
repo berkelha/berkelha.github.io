@@ -13,11 +13,7 @@ redirect_from:
 
 ## Current Group Members
 
-**Jangho Lee:** Postdoctoral Researcher<br>
-
 **LaTreesha Washington:** MS Student<br>
-
-**Frank Zurek:** MS Student currently DOE ARM Technician<br>
 
 **Bilal Kaludi:** Data scientist<br>
 
@@ -27,18 +23,17 @@ redirect_from:
 
 **CJ Sagi:** Undegraduate researcher<br>
 
-**Zora Shannon:** Undegraduate researcher<br>
-
-**Kai Belcastro:** Undegraduate researcher<br>
-
 **Whitney Romero:** Undegraduate researcher<br>
 
-**Taylor Finn:** Undegraduate researcher<br>
+
 
 
 ---
 
 ## Alumni
+
+**Jangho Lee:** Postdoctoral Researcher currently at Courant Institute at NYU<br>
+_Urban climate and data analytics_
 
 **Benjamin Ahlswede:** Postdoctoral Research Fellow currently faculty at Penn State<br>
 _Dynamic roots and turnover time in an Earth System Model_
@@ -55,6 +50,9 @@ _Ecological significance of dew and small precipitation events_<br>
 **Ben Alsip:** Masters Student currently at EPA<br>
 _Carbonyl sulfide fluxes from a restored prairie in Illinois_<br>
 
+**Frank Zurek:** MS Student currently DOE ARM Technician<br>
+_Spatiotemporal Dynamics of Snow-Free Frost Exposure in the Western Cordillera Seasonal Snow Zones_<br>
+
 **Ann Cosgrove:** Masters student currently at Density<br>
 _The atmospheric footprint of Chicago’s Urban Heat Island._<br>
 
@@ -63,6 +61,12 @@ _The atmospheric footprint of Chicago’s Urban Heat Island._<br>
 **Angellica Kucinski:** Undergraduate researcher
 
 **Yasmeen Hamed:** Undergraduate researcher
+
+**Kai Belcastro:** Undegraduate researcher
+
+**Taylor Finn:** Undegraduate researcher
+
+**Zora Shannon:** Undegraduate researcher
 
 **Melissa Carter:** Undergraduate researcher
 
