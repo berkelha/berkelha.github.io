@@ -49,8 +49,9 @@ Funding and Awards
 
 Publications
 ======
-
-* (77) J. Lee, **M. Berkelhammer**, M., Vincent, A.E.S., Grover, M., Cho, A., Packman, A.I., Kaludi, B., Gonzalez-Meler, M., McNicol, G (2026). Quality Assessment and Control of Urban Environmental Sensors using Physical Thresholding and Machine Learning-based Probabilities.  Big Earth Data. doi: in press
+* (79) M. Sun, A.J. Cao, C. Gerlein-Safdi, **M. Berkelhammer** & Lixin Wang (2026). Dew characterization and its ecological effects on vegetation: A review. Water Resources Research. doi: 10.1029/2025WR042646.
+* (78) M. Sun, W. Jiao, C. Gerlein-Safdi, **M. Berkelhammer** & Lixin Wang (2026). Dew formation is associated with higher ecosystem productivity across diverse ecosystems. Nature Communications. doi: 10.1038/s41467-026-71933-8.
+* (77) J. Lee, **M. Berkelhammer**, M., Vincent, A.E.S., Grover, M., Cho, A., Packman, A.I., Kaludi, B., Gonzalez-Meler, M., McNicol, G (2026). Quality Assessment and Control of Urban Environmental Sensors using Physical Thresholding and Machine Learning-based Probabilities.  Big Earth Data. doi: 10.1080/20964471.2026.2623720
 * (76) J. Lee, **M. Berkelhammer**, J. O'Brien, G. McNicol, A. Vincent, M. Grover, A. Packman, , B. Kaludi, A. Cho and M. Gonzalez-Meler (2026). Imputation of urban environmental sensor data using gated attention bidirectional long short-term memory (GA-BiLSTM): methods, performance, and implications. Environmental monitoring and assessment. doi: 10.1007/s10661-026-15112-8
 * (75) J. Lee, S.Y. Park, A. Wadhwa, A. Packman, S. W. Nesbitt, A. Sharma, **M. Berkelhammer**, M. H. Garcia, R. Kotamarthi, D. Hence and W. M. Miller (2025). Comparing multi-source urban flood indicators: satellite, simulation, and citizen-reported data. Environmental Research: Water. doi: 10.1088/3033-4942/ae0aed
 * (74) N. Love, **M. Berkelhammer**, E. Tovar, S. Romy, M. Wilson, G. Nunez-Mir (2025) Not all green is equal: Growth form predicts urban vegetation.  Remote Sensing. doi: 10.3390/rs17172919
