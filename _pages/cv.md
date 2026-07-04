@@ -49,6 +49,8 @@ Funding and Awards
 
 Publications
 ======
+
+* (80) J. Lee & **M. Berkelhammer** (2026). Spatiotemporal Response of Urban Bike-Sharing Ridership to Weather, Air Quality, and Future Climate Change in Major U.S. Cities. Journal of Environmental Management. doi: 10.1016/j.jenvman.2026.130431.
 * (79) M. Sun, A.J. Cao, C. Gerlein-Safdi, **M. Berkelhammer** & Lixin Wang (2026). Dew characterization and its ecological effects on vegetation: A review. Water Resources Research. doi: 10.1029/2025WR042646.
 * (78) M. Sun, W. Jiao, C. Gerlein-Safdi, **M. Berkelhammer** & Lixin Wang (2026). Dew formation is associated with higher ecosystem productivity across diverse ecosystems. Nature Communications. doi: 10.1038/s41467-026-71933-8.
 * (77) J. Lee, **M. Berkelhammer**, M., Vincent, A.E.S., Grover, M., Cho, A., Packman, A.I., Kaludi, B., Gonzalez-Meler, M., McNicol, G (2026). Quality Assessment and Control of Urban Environmental Sensors using Physical Thresholding and Machine Learning-based Probabilities.  Big Earth Data. doi: 10.1080/20964471.2026.2623720
