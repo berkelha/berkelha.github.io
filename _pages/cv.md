@@ -50,6 +50,7 @@ Funding and Awards
 Publications
 ======
 
+* (81) Collis et al. (2026). CROCUS Urban Canyons. Bulletin of the American Meteorological Society (BAMS). doi: 10.1175/BAMS-D-24-0263.1.
 * (80) J. Lee & **M. Berkelhammer** (2026). Spatiotemporal Response of Urban Bike-Sharing Ridership to Weather, Air Quality, and Future Climate Change in Major U.S. Cities. Journal of Environmental Management. doi: 10.1016/j.jenvman.2026.130431.
 * (79) M. Sun, A.J. Cao, C. Gerlein-Safdi, **M. Berkelhammer** & Lixin Wang (2026). Dew characterization and its ecological effects on vegetation: A review. Water Resources Research. doi: 10.1029/2025WR042646.
 * (78) M. Sun, W. Jiao, C. Gerlein-Safdi, **M. Berkelhammer** & Lixin Wang (2026). Dew formation is associated with higher ecosystem productivity across diverse ecosystems. Nature Communications. doi: 10.1038/s41467-026-71933-8.
